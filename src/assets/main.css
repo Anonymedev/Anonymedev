@@ -1,0 +1,26 @@
+@import './base.css';
+
+body {
+    font-family: 'Poppins';
+    background-color: var(--primary-bg-light); 
+}
+
+.vc {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.hc {
+    display: flex;
+    justify-content: center;
+}
+
+.h-align {
+  display: flex;
+}
+
+.v-align {
+    display: flex;
+    flex-direction: column;
+}

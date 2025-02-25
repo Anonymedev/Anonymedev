@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:200,300,300,400,500,600,700,800,900&display=swap');
+
+@font-face {
+    font-family: "spin-cycle";
+    src: url(/fonts/SPINC___.TTF);
+}
+
+:root { 
+    --base-background: #fff; 
+}
+
+.dark-mod {
+    --base-background: #000; 
+}
+
+*, *::before, *::after {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}

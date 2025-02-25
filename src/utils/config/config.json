@@ -1,0 +1,11 @@
+{
+    "DEV": {
+        "apiBaseURL": "http://localhost:3000",
+        "siteBaseURL": "http://localhost:5173"
+    },
+
+    "PROD": {
+        "apiBaseURL": "",
+        "siteURL": ""
+    }
+}
